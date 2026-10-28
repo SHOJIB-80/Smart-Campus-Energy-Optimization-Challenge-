@@ -277,7 +277,7 @@ git push origin feature/your-change
 
 ## License
 
-No explicit license file was found in the repository, so no license is declared for this project.
+under sirajul and hridoy
 
 ##
 MD Sirajul Islam 
